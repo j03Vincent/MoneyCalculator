@@ -1,0 +1,10 @@
+USD,Dólar estadounidense,$
+GBP,Libra esterlina,£
+JPY,Yen japonés,¥
+AUD,Dólar australiano,$
+CAD,Dólar canadiense,$
+CNY,Yuan renminbi,¥
+CHF,Franco,fr
+PHP,Peso filipino,₱
+INR,Rupia india,₹
+MXN,Peso mexicano,$
